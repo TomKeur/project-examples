@@ -1,4 +1,4 @@
-# src: github.com/qlico/project-examples/Dockerfile.php74-libvips
+# src: https://github.com/qlico/project-examples/blob/main/Dockerfile.php74-libvips
 FROM php:7.4.16-fpm-alpine3.13 as base
 LABEL maintainer="Qlico <hello@qlico.dev>"
 
